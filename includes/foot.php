@@ -4,7 +4,7 @@
         <ul class="list-group">
             <li class="list-group-item"><h3>Identificação</h3></li>
             <li class="list-group-item"><h3>Acessos</h3></li>
-            <li class="list-group-item"><h3>Contatos</h3></li>
+            <li class="list-group-item"><h3>Contato</h3></li>
             <li class="list-group-item"><h3>Busca</h3></li>
             <li class="list-group-item"><h3>Ajuda</h3></li>
         </ul>

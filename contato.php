@@ -2,15 +2,9 @@
     <?php
     require 'includes/head.php';
     ?>
-
     <body id="bkk" background="img/fundocinza.jpg">
-
-
-
-
         <div class="container">
             <div class="row">
-
                 <div id="header" title="SITE" class="col-lg-12" >
                     <div class="jumbotron">
                         <div id="form" style="text-align: center">
