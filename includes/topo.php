@@ -1,4 +1,4 @@
-<body id="bkk" background="img/fundoazul.jpg">
+<body id="bkk" background="img/desktop4.png">
     <div class="container">
         <div class="row">
             <div id="header" title="SITE" class="col-lg-12" >
